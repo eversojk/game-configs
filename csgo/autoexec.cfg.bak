@@ -131,7 +131,6 @@ alias show2 "cl_teamid_overhead_mode 1; alias show show1"
 
 // misc
 cl_mute_enemy_team 0
-cl_forcepreload 0
 cl_autowepswitch 0
 cl_disablehtmlmotd 0
 cl_disablefreezecam 1
