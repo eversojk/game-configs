@@ -122,6 +122,12 @@
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
+        <SettingNameInfo>Power management mode</SettingNameInfo>
+        <SettingID>274197361</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>FRL Low Latency</SettingNameInfo>
         <SettingID>277041152</SettingID>
         <SettingValue>0</SettingValue>
